@@ -22,7 +22,7 @@ url:
   # In a local area network, only one proxy is required. For example, the IP of the machine where the proxy is located is 192.168.1.88 and the port is 9190
   # The following configuration is changed to
   # proxy: "http://154.20.223.1:9190"
-  proxy: "http://0.0.0.0:9190"
+  proxy: "http://154.20.223.1:9190"
 
 # socket 或者是http代理配置
 # socket5 or http proxy
